@@ -1,4 +1,4 @@
-{"Perfiles": [
+[
   {"id": 1,
   "first_name": "Juan Roman",
   "last_name": "Riquelme",
@@ -13,5 +13,5 @@
   "first_name": "Estefania",
   "last_name": "Banini",
   "photo": "https://img.fifa.com/image/upload/t_l1/ru4vrdz9i5mtfgrrzpni.jpg"
-  },
-]}
+  }
+]
