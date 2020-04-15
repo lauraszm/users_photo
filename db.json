@@ -6,21 +6,27 @@
     "name": "Juan Roman",
     "apellido": "Riquelme",
     "photo": "https://tmssl.akamaized.net//images/foto/normal/juan-roman-riquelme-boca-juniors-2014-1575894893-28112.jpg",
-    "intereses": "Boca, Politica, Mate, Asado"
+    "photo2": "https://miro.medium.com/max/1200/1*7yBvJHchcVfC4hm363Cdow.jpeg",
+    "photo3": "https://upload.wikimedia.org/wikipedia/commons/5/58/Homenaje_a_Riquelme_%28cropped%29.jpg",
+    "intereses": "Mate, Asado con amigos, Papas Fritas"
     },
   {
     "id": 2,
     "name": "Estefania",
     "apellido": "Banini",
     "photo": "https://img.fifa.com/image/upload/t_l1/ru4vrdz9i5mtfgrrzpni.jpg",
-    "intereses": "futbol feminino, igualdad, la 10"
+    "photo2": "https://1qxya61uvyue18mpsx3zc8om-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2019/06/Estefania_Banini_12.png",
+    "photo3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3eQYYYW6s7nPnIMEVhPsMJiBcn1M_R0N_SVHkrSVOu1fwkxVGA&s",
+    "intereses": "Deportes, Viajes, La vida es una"
   },
   {
     "id": 3,
     "name": "Pablo",
     "apellido": "Aimar",
     "photo": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2019/02/26080657/Pablo-Aimar-Juan-Roman-Riquelme-Argentina.jpg",
-    "intereses": "seleccion, formacion, cafe con medialunas"
+    "photo2": "https://img.fifa.com/image/upload/t_l1/mhjnkrm3frpzdjih7bjc.jpg",
+    "photo3": "https://tmssl.akamaized.net//images/foto/normal/pablo-aimar-river-plate-1585997977-35879.jpg",
+    "intereses": "La familia, Pastas, Cafe con medialunas"
     }
 ]
 }
