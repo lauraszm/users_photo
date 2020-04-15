@@ -6,11 +6,7 @@
     "name": "Juan Roman",
     "apellido": "Riquelme",
     "photo": "https://tmssl.akamaized.net//images/foto/normal/juan-roman-riquelme-boca-juniors-2014-1575894893-28112.jpg",
-    "intereses": {
-      "1": "Mate",
-      "2": "Papas Fritas",
-      "3": "Boca"
-    }
+   
     },
    
   {
@@ -18,22 +14,14 @@
     "name": "Estefania",
     "apellido": "Banini",
     "photo": "https://img.fifa.com/image/upload/t_l1/ru4vrdz9i5mtfgrrzpni.jpg"
-     "intereses": {
-      "1": "Terere",
-      "2": "Milanesas",
-      "3": "La 10"
-    }
+   
   },
   {
     "id": 3,
     "name": "Pablo",
     "apellido": "Aimar",
     "photo": "https://d3nfwcxd527z59.cloudfront.net/content/uploads/2019/02/26080657/Pablo-Aimar-Juan-Roman-Riquelme-Argentina.jpg"
-     "intereses": {
-      "1": "Cafe",
-      "2": "Asado",
-      "3": "Payasos"
-    }
+    
   }
 ]
 }
